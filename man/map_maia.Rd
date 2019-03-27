@@ -13,6 +13,12 @@ map_maia(df, region, fill, factor = T, ncolors = 7,
 \item{region}{Coluna compactível com o "region" do map_data}
 
 \item{fill}{Coluna com os valores a serem plotados}
+
+\item{factor}{Booleano, T se fill for Factor}
+
+\item{ncolors}{Numero de cores a ser usado se factor==T}
+
+\item{is_small}{Coluna com a tag "is_small". Defaults to "is_small"}
 }
 \value{
 none, plots map

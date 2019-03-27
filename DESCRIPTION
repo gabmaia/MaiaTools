@@ -1,6 +1,6 @@
 Package: MaiaTools
 Title: Miscellaneous tools
-Version: 0.0.0.9000
+Version: 0.0.0.10
 Authors@R: person("Gabriel", "Maia", email = "gabmaia23@gmail.com", role = c("aut", "cre"))
 Description: A bunch of stuff.
 Depends: R (>= 3.4.4)
