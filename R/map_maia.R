@@ -9,12 +9,19 @@
 #'
 #' @param fill Coluna com os valores a serem plotados
 #'
+#' @param factor Booleano, T se fill for Factor
+#'
+#' @param ncolors Numero de cores a ser usado se factor==T
+#'
+#' @param is_small Coluna com a tag "is_small". Defaults to "is_small"
+#'
 #' @return none, plots map
 #'
 #' @author Gabriel Maia
 #'
 #' @import tidyverse
 #'
+#' @export
 #'
 
 
