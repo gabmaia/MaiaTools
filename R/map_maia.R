@@ -27,7 +27,7 @@
 #'
 
 
-map_maia  <- function(df, region="region", fill=="n", join_countries=T, is_factor=T, ncolors=7,
+map_maia  <- function(df, region="region", fill="n", join_countries=T, is_factor=T, ncolors=7,
                       is_small="is_small") {
 
 
